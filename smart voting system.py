@@ -2,7 +2,7 @@ import speech_recognition as sr
 import mysql.connector
 
 # Establish connection to MySQL database
-#Establish the connection soon
+# Establish the connection soon
 conn = mysql.connector.connect(
     host="your_host",
     user="your_username",
